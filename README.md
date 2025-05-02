@@ -1,3 +1,4 @@
 # Python-Calculator
+Hello this my first python calculator that i made.
 <br>
-created a python calculator by myself
+-Vedant
